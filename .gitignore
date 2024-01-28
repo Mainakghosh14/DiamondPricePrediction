@@ -1,1 +1,3 @@
-venv/cls
+venv/
+venv
+_venv/
